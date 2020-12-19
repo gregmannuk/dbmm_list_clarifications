@@ -9,7 +9,7 @@ The purpose of the clarifications is to provide both players and list checkers a
 
 This document is not an &quot;official&quot; source of DBMM information but is released into the public domain in an effort to help sustain the growth of DBMM and enhance the enjoyment of DBMM players.
 
-It is largely based on debates or queries that have occurred or are still taking place on the Groups IO DBMM List (http://games.groups.yahoo.com/group/DBMMlist) or in discussions between some of those who check lists for competitions.
+It is largely based on debates or queries that have occurred or are still taking place on the Groups IO DBMM List (https://groups.io/g/DBMMlist/topics) or in discussions between some of those who check lists for competitions.
 
 This is not an official Wargames Research Group document and all copyright for the rules and army lists remains with Phil Barker.
 
