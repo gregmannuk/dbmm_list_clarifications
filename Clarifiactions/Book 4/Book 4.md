@@ -2,18 +2,18 @@
 
 
 ## List 3 – Komnenan Byzantine
-2. Manichaeans are a sub-list.
-3. Venetians are a sub-list.
+Manichaeans are a sub-list.
+Venetians are a sub-list.
 
 ## List 2 – Cilician Armenian
-4. Frankish allies can be Early Crusader (4/7) up to 1128 AD and Later Crusader (4/17) from 1128 AD.
-5. Bedouins are treated as a sub-list if the Bedouin ally-general is taken.
+Frankish allies can be Early Crusader (4/7) up to 1128 AD and Later Crusader (4/17) from 1128 AD.
+Bedouins are treated as a sub-list if the Bedouin ally-general is taken.
 
 ## List 6 – Syrian
-6. Turkomans are a sub-list.
-7. The Norwegians, including Sigurd Jorsala-farer, are a sub-list.
-8. Frankish allies can be Early Crusader (4/7) up to 1128 AD and Later Crusader (4/17) from 1128 AD.
-9. Turkomans converted to ghazis cannot be commanded by Turkoman generals.
+Turkomans are a sub-list.
+The Norwegians, including Sigurd Jorsala-farer, are a sub-list.
+Frankish allies can be Early Crusader (4/7) up to 1128 AD and Later Crusader (4/17) from 1128 AD.
+Turkomans converted to ghazis cannot be commanded by Turkoman generals.
 
 ## List 7 – Early Crusader
 10. Byzantines are a sub-list
