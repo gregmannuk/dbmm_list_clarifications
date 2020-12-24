@@ -9,7 +9,7 @@ The upgrade of crossbowmen to handgunners should be for foot only (Probable mist
 ### There should be an option to detach lighter armed troops from Feudal knights and ministeriales.
 This happened at least once at the battle of Bouvines in 1214 (see https://en.wikipedia.org/wiki/Battle_of_Bouvines or J.F Veerbruggen - The Art if Warfare in Western Europe During the Middle Ages, pg 239). Suggest include a line with:
 
-&quot;Detach lighter armoured seargents from Feudal Feudal knights and ministeriales as Reg Cv(O) @ 8AP		0-1&quot;
+&quot;Detach lighter armoured seargents from Feudal knights and ministeriales as Reg Cv(O) @ 8AP		0-1&quot;
 
 Needs further work to determine the range of dates this should be allowed.
 
@@ -21,4 +21,4 @@ This is essentially a battle between 2 Medieval Gerrman armies where the predomi
 ## List 85 – Burgundian Ordonnance
 
 ### Dates for militia pikemmen/Lanksknechts
-As the lanksknechts replace the militia pikement there are no Lanksknechts avaialable from 1507. 
+As the lanksknechts replace the militia pikement there are no Lanksknechts avaialable from 1507 or any of the troops dependant on them. 

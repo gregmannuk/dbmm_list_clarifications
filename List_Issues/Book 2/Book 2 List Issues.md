@@ -7,7 +7,7 @@ These should be downgraded to Bw(X/O) as Persians immortals, etc are no longer g
 
 ## List [47 Early German]
 
-###Elite skirmisher AP cost
+### Elite skirmisher AP cost
 The elite foot skirmishers upgraded to Irr Ps(S) cost 3AP
 
 ## List 64 Middle Imperial Roman.

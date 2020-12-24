@@ -2,7 +2,7 @@
 
 ## List 15 Later Amorite
 
-## #Sabum qallatum AP cost
+### Sabum qallatum AP cost
 The correct AP cost for Sabum qallatum Reg Ax (I) is 3 AP not 2 AP.
 
 ## List 25 Middle Assyrian and Early Neo-Assyrian
@@ -12,7 +12,7 @@ The correct AP cost for camels disguised as elephants is 7 AP.
 
 ## List 27 Early Hebrew
 
-### sub-generals AP cost
+### Sub-generals AP cost
 The AP cost for sub-generals as Ps (S) should be 13 AP.
 
 ## List 48 Thracian

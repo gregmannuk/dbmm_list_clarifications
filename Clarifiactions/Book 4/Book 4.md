@@ -16,7 +16,7 @@ Frankish allies can be Early Crusader (4/7) up to 1128 AD and Later Crusader (4/
 Turkomans converted to ghazis cannot be commanded by Turkoman generals.
 
 ## List 7 – Early Crusader
-10. Byzantines are a sub-list
+Byzantines are a sub-list
 
 ## List 13 – Medieval German
 
