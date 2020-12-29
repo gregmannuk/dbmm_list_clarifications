@@ -15,6 +15,8 @@ It is largely based on debates or queries that have occurred or are still taking
 
 This is not an official Wargames Research Group document and all copyright for the rules and army lists remains with Phil Barker.
 
+## Guidance
+On how this project works, etc see https://github.com/gregmannuk/dbmm_list_clarifications/blob/main/How%20this%20project%20works.md
 
 ## Scope
 
