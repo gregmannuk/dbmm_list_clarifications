@@ -32,7 +32,7 @@ Once you are happy with your changes you need to confirm you are happy with then
 
 ![Commit change](https://user-images.githubusercontent.com/76245811/103280813-3c120480-49c9-11eb-8661-e14217ffe7af.png)
 
-Once the local commit has been made the following or similar will appear on the github desktop to push the proposal to the main repository.
+Once the local commit has been made the following or similar will appear on the github desktop to push the proposal to the main repository. Possibly you will be asked to bring other changes to the main repository down to merge locally first.
 ![push to master](https://user-images.githubusercontent.com/76245811/103280874-5a780000-49c9-11eb-881e-7c348172ee13.png)
 
 For most people this will create what is termed a pull request. This allows the administrators of the repository to accept or reject your proposed changes, They may also make suggestions for changes for tyou to make before they will approve.
