@@ -21,7 +21,7 @@ There are command line tools (gitbash) that can do this but I've found the easie
 In guthub desktop:
 1. Use menu option File -> Clone repository. 
 2. Select the url option and enter the url for the repository (https://github.com/gregmannuk/dbmm_list_clarifications) and location where the copy will be placed.
-		![create a clone](https://user-images.githubusercontent.com/76245811/103282147-b42df980-49cc-11eb-841d-2a0e913d54d9.png)
+![create a clone](https://user-images.githubusercontent.com/76245811/103282147-b42df980-49cc-11eb-841d-2a0e913d54d9.png)
 3. Click on the clone button.
 
 You can now make the changes you want to the local copy.
