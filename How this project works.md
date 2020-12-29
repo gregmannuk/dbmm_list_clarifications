@@ -16,7 +16,7 @@ We've created 2 sections within this repository to create a new set of clarifica
 Create a new issue at https://github.com/gregmannuk/dbmm_list_clarifications/issues. This can then be picked up by another contributor and resolved by them.
 
 ### I've spotted a problem and have an answer for it
-Make the change and submit it for approval via a pull request.
+Make the change and submit it for approval via a pull request. We are using markdown for the documents on this sait (See guide at https://www.markdownguide.org/basic-syntax/). Please stick to the formatting style used.
 
 ## Change approval
 The administrators of this site will approve the change/pull request if they think it is justified. For list clarification it must be a sensible interpretation of the wording. For list issues or changes it must be backed up a robust arguement. For both cases historical justification, with sources, is always preferred. Pull requests will be accepted, rejected or pushed back with comments.
