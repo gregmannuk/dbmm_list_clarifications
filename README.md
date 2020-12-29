@@ -1,6 +1,6 @@
 # Introduction
 
-![DBMM Front Cover](https://user-images.githubusercontent.com/76245811/103281751-9dd36e00-49cb-11eb-8dc4-5bc158a911d2.png)
+  ![DBMM Front Cover](https://user-images.githubusercontent.com/76245811/103281751-9dd36e00-49cb-11eb-8dc4-5bc158a911d2.png)
 
 The aim of this project is to create an updated set of list clarifications for the revised army Lists (2016 edition) for Phill Barker's DBMM Rules (©copyright for rules and lists belongs to Phil Barker). The secondary purpose is to collect list issues that fall outside the scope of clarifications in the hope that further improvmeents can be made to the lists some day. 
 
@@ -15,6 +15,8 @@ It is largely based on debates or queries that have occurred or are still taking
 
 This is not an official Wargames Research Group document and all copyright for the rules and army lists remains with Phil Barker.
 
+## Guidance
+On how this project works, etc see https://github.com/gregmannuk/dbmm_list_clarifications/blob/main/How%20this%20project%20works.md
 
 ## Scope
 
