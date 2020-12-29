@@ -1,6 +1,8 @@
 # Introduction
 
-The aim of this project is to create an updated set of list clarifications for the revised army Lists (2016 edition) for Phill Barker's DBMM Rules (©copyright for ruless and lists belongs to Phil Barker). The secondary purpose is to collect list issues that fall outside the scope of clarifications in the hope that further improvmeents can be made to the lists some day. 
+![DBMM Front Cover](https://user-images.githubusercontent.com/76245811/103281751-9dd36e00-49cb-11eb-8dc4-5bc158a911d2.png)
+
+The aim of this project is to create an updated set of list clarifications for the revised army Lists (2016 edition) for Phill Barker's DBMM Rules (©copyright for rules and lists belongs to Phil Barker). The secondary purpose is to collect list issues that fall outside the scope of clarifications in the hope that further improvmeents can be made to the lists some day. 
 
 The purpose of the clarifications is to provide both players and list checkers a consistent framework in interpreting the DBMM Army List books. This document provides DBMM players and competition umpires with a guide to aid:
 
