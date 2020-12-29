@@ -29,6 +29,7 @@ You can now make the changes you want to the local copy.
 ## How will my changes get updated to the main repository?
 
 Once you are happy with your changes you need to confirm you are happy with then by committing them locally. In the bottom left hand corner of github desktop there is a section to add a comment and commit locally. You must adda summary of the change and it's really useful to add some more detail to help thise who will approve the the change.
+
 ![Commit change](https://user-images.githubusercontent.com/76245811/103280813-3c120480-49c9-11eb-8661-e14217ffe7af.png)
 
 Once the local commit has been made the following or similar will appear on the github desktop to push the proposal to the main repository.
