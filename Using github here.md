@@ -1,7 +1,7 @@
 # Guidance for those unfamiliar to GitHub
 
 ## What is GitHub
-GitHub is an online collaboration tool mainly used by software developers to manage software code. It's a professional level tool and for personal use it is free. As it os a tool promarily for software developers you may not be familiar with the terms used. The key ones are covered in the guidance below.
+GitHub is an online collaboration tool mainly used by software developers to manage software code. It's a professional level tool and for personal use it is free. As it is a tool primarily for software developers you may not be familiar with the terms used. The key ones are covered in the guidance below.
 
 ## What do I need to use it?
 ### Get a github account
@@ -18,7 +18,7 @@ There are command line tools (gitbash) that can do this but I've found the easie
 
 
 ## Getting a local copy
-In guthub desktop:
+In github desktop:
 1. Use menu option File -> Clone repository. 
 2. Select the url option and enter the url for the repository (https://github.com/gregmannuk/dbmm_list_clarifications) and location where the copy will be placed.
 
