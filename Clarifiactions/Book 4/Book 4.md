@@ -11,12 +11,15 @@ Bedouins are treated as a sub-list if the Bedouin ally-general is taken.
 
 ## List 6 – Syrian
 Turkomans are a sub-list.
-The Norwegians, including Sigurd Jorsala-farer, are a sub-list.
+
 Frankish allies can be Early Crusader (4/7) up to 1128 AD and Later Crusader (4/17) from 1128 AD.
+
 Turkomans converted to ghazis cannot be commanded by Turkoman generals.
 
 ## List 7 – Early Crusader
 Byzantines are a sub-list
+
+The Norwegians, including Sigurd Jorsala-farer, are a sub-list.
 
 ## List 13 – Medieval German
 
