@@ -5,7 +5,7 @@ GitHub is an online collaboration tool mainly used by software developers to man
 
 ## What do I need to use it?
 ### Get a github account
-If you want to make a contribution to this repository you will need to create a github account. It's free. It is stronly advised to add some form of 2 facotr authentication to your account for added security.
+If you want to make a contribution to this repository you will need to create a github account. It's free. It is stronly advised to add some form of 2 factor authentication to your account for added security.
 
 ### Install github desktop.
 Although you can just use the github website to make updates to files it's generally considered best practice to:
@@ -25,7 +25,7 @@ In github desktop:
   ![create a clone](https://user-images.githubusercontent.com/76245811/103282147-b42df980-49cc-11eb-841d-2a0e913d54d9.png)
 3. Click on the clone button.
 
-You can now make the changes you want to the local copy.
+You can now make the changes you want to the local copy. The files are text files so any text editor can be used.
 
 ## How will my changes get updated to the main repository?
 
