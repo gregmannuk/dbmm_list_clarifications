@@ -23,15 +23,21 @@ The Norwegians, including Sigurd Jorsala-farer, are a sub-list.
 
 ## List 13 – Medieval German
 
+### Generals and what they can command
+The letters at the end of troop type description describe which gerneals can command them and not their origin as this is stated in the line if relevant. Hence:
+<ol>
+<li>Only [I, T] C-in-C can have any sub-generals (as per the list notes).</li>
+<li>&quot;Allies internal to this list&quot; – This section specifies which combination of ally-generals may be used with which type of C-in-C.</li>
+<li>A sub-general can be of any type. As a cnsequence the section for Free cantons should give sub-general costs as per [FC] CinC.</li>
+  <ol>
+
+
+
 War wagons lists as 1 per 4 foot if taken. This is for all foot but can only be commanded by [T, Ci] generals.
 
 The standard wagons must remain in their respective commands as they can only be commanded by a general.
 
 The army baggage command can only have &quot;other train and also foot elements&quot; that are not marked [I, T, Ci, FC] as these must be commanded by a general of that type.
-
-Only [I, T] C-in-C can have any of the sub-generals.
-
-&quot;Allies internal to this list&quot; – This section specifies which combination of ally-generals may be used with which type of C-in-C. These are internal allies. Therefore no [I] ally general is allowed as this contradicts this section even though it is listed as an ally-general type.
 
 The upgrade of Ps(S), Bw(I) and Bw(O) archers should be read as Ps(O), Bw(I) and Bw(O) (Probable mistake).
 
@@ -43,7 +49,7 @@ The Spanish in Konradin&#39;s feudal army are a sub-list.
 
 Where upgrades do not mention the origin then the origin remains unchanged.
 
-A [T] general may be either feudal or a prince of the church. If the latter it does not trigger the Fe6dual troops minima.
+A [T] general may be either feudal or a prince of the church. If the latter it does not trigger the Feudal troops minima.
 
 
 ## List 15 – Qara-Khitan
